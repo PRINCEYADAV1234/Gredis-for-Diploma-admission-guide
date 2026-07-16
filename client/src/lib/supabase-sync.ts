@@ -1,6 +1,6 @@
 import { type Profile, type College, type ChatSession, type ChatMessage } from "./store";
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_URL = (import.meta.env.VITE_API_URL || "http://localhost:5000").replace(/\/$/, "");
 
 function toCamel(obj: any) {
   const res: any = {};
