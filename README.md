@@ -1,4 +1,10 @@
-# GREDIS — AI Co-Pilot for Diploma Admissions
+Name : Yadav Prince 
+Endrollment No : 240163116036
+Semester: 7th sem
+Collage : Government Engineering COllage, Modasa
+
+
+# About Project :  GREDIS — AI Co-Pilot for Diploma Admissions
 
 Gredis is a premium fullstack web application designed to act as an intelligent co-pilot for students seeking polytechnic and diploma engineering admissions in India. 
 
