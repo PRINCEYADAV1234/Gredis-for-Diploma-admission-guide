@@ -1,7 +1,9 @@
-Name : Yadav Prince 
-Endrollment No : 240163116036
-Semester: 7th sem
-Collage : Government Engineering COllage, Modasa
+# Personal Details
+
+Name : Yadav Prince <br>
+Endrollment No : 240163116036 <br>
+Semester: 7th sem <br>
+Collage : Government Engineering COllage, Modasa <br>
 
 
 # About Project :  GREDIS — AI Co-Pilot for Diploma Admissions
