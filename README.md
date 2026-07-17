@@ -12,7 +12,7 @@ Selecting the right engineering stream, calculating cutoff eligibility, comparin
 
 ---
 
-# video Explanation : 
+# video Explanation : [HERE](https://www.youtube.com/watch?v=kS9iQpYK4Zc)
 
 ##  Key Features
 
