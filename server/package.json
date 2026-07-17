@@ -5,7 +5,6 @@
   "private": true,
   "scripts": {
     "dev": "node --watch src/index.js",
-    "build": "echo 'No build step required for backend'",
     "start": "node src/index.js"
   },
   "dependencies": {
