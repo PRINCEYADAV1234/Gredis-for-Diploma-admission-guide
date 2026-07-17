@@ -12,6 +12,8 @@ Selecting the right engineering stream, calculating cutoff eligibility, comparin
 
 ---
 
+# video Explanation : 
+
 ##  Key Features
 
 * **AI College Recommendations**: Recommends 6 realistic polytechnic colleges customized to the student's 10th-grade percentage, fee budget, location, and branch preferences.
